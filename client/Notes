@@ -1,0 +1,10 @@
+Libraries:
+* Three.Js => 
+    React-three-fiber: react renderer for three.js
+    React-three-drei: usefull addons for fiber
+
+* Maath: usefull math helpers meant to with used for three.js 
+* Valtio: a new package that allows us to easly use react state
+* framer-motion: for cool animations
+* TailwindCSS, postCSS, autoprefixer: for easly CSS integration
+
